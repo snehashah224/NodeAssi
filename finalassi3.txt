@@ -1,0 +1,23 @@
+{
+    "date": "2014-08-25T12:39:25.510Z",
+    "Latitude": 23.022505,
+    "Longitude": 72.5713621,
+    "Current Weather": {
+        "time": 1408970366,
+        "summary": "Light Rain",
+        "icon": "rain",
+        "precipIntensity": 0.0206,
+        "precipProbability": 0.93,
+        "precipType": "rain",
+        "temperature": 90.51,
+        "apparentTemperature": 105.32,
+        "dewPoint": 77.98,
+        "humidity": 0.67,
+        "windSpeed": 4.59,
+        "windBearing": 263,
+        "visibility": 3.73,
+        "cloudCover": 0.51,
+        "pressure": 1005.79,
+        "ozone": 269.37
+    }
+}
